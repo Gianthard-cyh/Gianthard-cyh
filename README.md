@@ -7,7 +7,7 @@
 * 🧠 **CS336-Assignment1**: Deep diving into *Language Models From Scratch*. Current status: `[██████░░░░] 60%` (Wrestling with Transformers).
 * 🎞️ **Visuals**: Capturing the world through **Analog Cameras** and **Sony A7C**. Post-processing life in **DaVinci Resolve**.
 
-### Stacks
+### 🏗️ Stacks
 
 | Domain | Stack |
 | :--- | :--- |
