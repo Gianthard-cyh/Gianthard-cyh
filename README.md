@@ -4,7 +4,6 @@
 
 ### 🚀 What I'm doing
 * 🔍 **[ValiRef](https://github.com/Gianthard-cyh/ValiRef)**: Building an agentic hallucination detector for LLM citations. Making bibliographic integrity a thing again.
-* 🧠 **CS336-Assignment1**: Deep diving into *Language Models From Scratch*. Current status: `[██████░░░░] 60%` (Wrestling with Transformers).
 * 🎞️ **Visuals**: Capturing the world through **Analog Cameras** and **Sony A7C**. Post-processing life in **DaVinci Resolve**.
 
 ### 🏗️ Stacks
