@@ -15,8 +15,8 @@
 | **Infrastructure** | `Manjaro Linux` • `ThinkPad T14` |
 
 ### 📊 Stats
-[![0xfe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gianthard-cyh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![0xfe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gianthard-cyh&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 ---
 
 ### 📬 Connectivity
